@@ -68,5 +68,5 @@ pelicula.playMultimedia();
 serie.playMultimedia();
 
 // metodo setInicio para modificar el tiempo
-pelicula.setInicio('30');
+pelicula.setInicio(30);
 pelicula.playMultimedia();
